@@ -1,4 +1,4 @@
-# 🛒 Blinkit Grocery Sales Dashboard (Power BI)
+# 🛒 Blinkit Sales Performance Analysis Dashboard (Power BI)
 This dashboard provides an in-depth analysis of Blinkit’s sales trends, customer satisfaction metrics, and inventory distribution, providing actionable insights for decision-making.
 
 # Blinkit Dashboard Preview
