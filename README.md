@@ -62,5 +62,9 @@ The dataset includes:
 
 •	Scale the Supermarket Type 1,2 & 3 success model.
 
+# 📜 License
+
+This project is for educational and portfolio purposes.
+
 
 
